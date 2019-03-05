@@ -1,2 +1,2 @@
 # flutter
-Basic prject flutter android
+Basic project flutter android
